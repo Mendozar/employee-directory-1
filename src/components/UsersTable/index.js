@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import API from "../utils/API";
+import API from "../../utils/API"
 // import "./styles.css";
-import UsersRow from './UsersRow.js'
-import SearchBox from './SearchBox';
-import TableTitles from '.TableTitles';
+import UsersRow from '../UsersRow'
+import SearchBox from '../SearchBox';
+import TableTitles from '../TableTitles';
 
 
 class UsersTable extends Component {
